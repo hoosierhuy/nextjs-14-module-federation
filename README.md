@@ -2,6 +2,8 @@
 
 Experiment to determine if Vite's Module Federation can be used in conjunction with NextJS Module Federation.
 
+Video:
+
 ## Intro
 
 Micro-frontend is an architectural approach that breaks down a large, monolithic frontend application into smaller, self-contained, and independently deployable micro-applications. For example, an e-commerce website might be divided into domains such as products, orders, payments, and users, each handled by separate micro-frontends.
@@ -24,7 +26,7 @@ This method requires better coordination and collaboration among teams. Any chan
 
 #### CMS
 
-Content Management Systems (CMS) like Adobe AEM, Drupal, or Laravel are well-suited for larger applications with hundreds of pages (micro-frontends). They help manage and deliver shared components efficiently across numerous micro-frontends.
+Content Management Systems (CMS) like Adobe AEM, Drupal, or WordPress are well-suited for larger applications with hundreds of pages (micro-frontends). They help manage and deliver shared components efficiently across numerous micro-frontends.
 
 #### Runtime Integration
 
