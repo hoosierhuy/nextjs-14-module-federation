@@ -17,7 +17,7 @@ export const SiteHeader = () => {
           {isAuthenticated && (
             <>
               <a
-                href="https://github.com/hoosierhuy"
+                href="https://github.com/hoosierhuy/nextjs-14-module-federation"
                 className="text-white p-2 mr-2 no-underline hidden md:block lg:block"
                 target="_blank"
                 rel="noreferrer"
