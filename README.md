@@ -66,7 +66,7 @@ The micro-frontend applications involved are:
 
 ## Running Example App
 
-This example app is set up as a monorepo using NX, `npm add --global nx@latest` source: https://nx.dev/getting-started/installation. Ideally each micro-frontend would have its own repository.
+This example app is set up as a monorepo, (all apps in the same repo) using NX, `npm add --global nx@latest` source: https://nx.dev/getting-started/installation. Ideally, when time permits, each micro-frontend would have its own repository.
 
 **console 1**
 I used nodejs version 20.x
